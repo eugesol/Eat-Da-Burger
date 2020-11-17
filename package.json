@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "an app to make and eat burgers",
   "main": "server.js",
+  "engines": {
+    "node": "14.7.0",
+    "npm": "6.14.7"
+  },
   "scripts": {
     "start": "node server.js"
   },
