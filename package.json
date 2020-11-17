@@ -1,18 +1,17 @@
 {
-  "name": "eatDaBurger",
+  "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "an app to make and eat burgers",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
-    "mysql": "^2.16.0"
+    "mysql": "^2.18.1"
   },
   "devDependencies": {}
 }
